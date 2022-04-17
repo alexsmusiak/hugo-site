@@ -1,6 +1,6 @@
 baseURL: "https://magnificent-gaufre-bcc245.netlify.app/"
 languageCode: en-us
-title: My New Hugo Site
+title: Double Spaced
 theme: PaperMod
 
 params:
